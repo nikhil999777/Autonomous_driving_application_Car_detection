@@ -47,3 +47,4 @@ This project demonstrates how semantic segmentation can be used in **Autonomous 
 * Model Training & Evaluation
 * Autonomous Vehicle Perception
 
+---Nikhil Kumar
